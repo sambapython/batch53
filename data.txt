@@ -1,0 +1,2 @@
+Hello notepad, how are you?some data
+ this is appending after open a file in append mode
