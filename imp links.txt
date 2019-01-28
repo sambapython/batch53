@@ -1,0 +1,7 @@
+https://github.com/sambapython/python
+https://github.com/sambapython/python/blob/master/Interview%20questions
+https://github.com/sambapython/python/blob/master/question%20papaer.odt
+https://github.com/sambapython/python/blob/master/question%20paper2
+https://github.com/sambapython/python/blob/master/question%20paper3
+http://mmc.geofisica.unam.mx/femp/Herramientas/Lenguajes/Python/Learning%20Python,%205th%20Edition.pdf
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
